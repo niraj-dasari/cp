@@ -1,0 +1,38 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+#define fastio ios_base::sync_with_stdio(false);cin.tie(NULL);
+#define ll long long
+#define floop(s,e,a) for(int i = s ; i < e ; i += a) 
+#define test(t) while(t--)
+#define srtv(a) sort(a.begin(),a.end())
+#define srta(a,n) sort(a,a+n)
+#define revv(a) reverse(a.begin(),a.end())
+#define reva(a,n) reverse(a,a+n)
+#define vec(a) vector<a>
+#define prt(a) for(auto x:a) cout << x << endl;
+#define bsearcha(a,n,k) binary_search(a, a+n, k)
+#define bsearchv(a,k) binary_search(a.begin(),a.end(), k)
+#define maxv(a) *max_element(a.begin(),a.end())
+#define maxa(a,n) *max_element(a,a+n)
+#define minv(a) *min_element(a.begin(),a.end())
+#define mina(a,n) *min_element(a,a+n)
+#define sumv(a,s) accumulate(a.begin(), a.end(), s)
+#define cntv(a,k) count(a.begin(), a.end(), k)
+#define cnta(a,n,k) count(a, a+n, k)
+#define findv(a,k) find(a.begin(), a.end(), k)
+#define finda(a,n,k) find(a, a+n, k) 
+#define lowboundv(a,k) lower_bound(a.begin(), a.end(), k)
+#define lowbounda(a,n,k) lower_bound(a, a+n, k)
+#define upboundv(a,k) upper_bound(a.begin(), a.end(), k)
+#define upbounda(a,n,k) upper_bound(a, a+n, k)
+#define rmdupv(a) arr.erase(unique(a.begin(),a.end()),a.end())
+#define rmdupa(a,n) arr.erase(unique(a,a+n),a+n)
+
+const int N =  0;
+int Arr[N];
+int main(){
+    
+    
+    return 0;
+}
